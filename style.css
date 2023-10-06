@@ -1,0 +1,23 @@
+.photo {
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 17rem;
+    height: 17rem;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+table, th, tr, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px 16px;
+}
+
+table {
+    margin-top: 2rem;
+}
